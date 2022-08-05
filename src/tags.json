@@ -31,6 +31,7 @@
   "chevron-down": ["expand"],
   "chevron-up": ["collapse"],
   "circle": ["off", "zero", "record"],
+  "circle-solid": ["dot"],
   "clipboard": ["copy"],
   "clock": ["time", "watch", "alarm"],
   "cloud-drizzle": ["weather", "shower"],
